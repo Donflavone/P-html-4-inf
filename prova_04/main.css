@@ -1,0 +1,94 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #ffffff;
+
+
+}
+
+header {
+    background-color: #0faa0f;
+    color: #fff;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration-color: #fff;
+}
+
+nav {
+    margin: 10px 0;
+    text-align: center;
+}
+
+nav a {
+    margin: 0 15px;
+    color: #fff;
+    text-decoration: none;
+}
+
+h1 {
+    color: #ffffff;
+}
+
+.times {
+    list-style-type: none;
+    padding: 0;
+}
+
+.times li {
+    background: #fff;
+    margin: 10px 0;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+.informacao-inicial {
+    background-color: #fff;
+    width: 80%;
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+.informacao-inicial h2 {
+    margin-top: 0;
+    color: #333;
+    
+}
+
+.informacao-inicial p {
+    line-height: 1.6;
+    color: #666;
+    margin-bottom: 20px;
+}
+#times{
+    text-align: center;
+}
+#palmeiras{
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+}
+#internacional{
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+}
+#fluminense{
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 8px;  
+}
+#corinthians{
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+}
